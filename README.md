@@ -12,17 +12,17 @@
 ##2015-09-14
 ###done
 1. 文章发布
- *Javascript简介 [查看](http://segmentfault.com/a/1190000003745158)
+ * Javascript简介 [查看](http://segmentfault.com/a/1190000003745158)
 
 ##2015-09-15
 ###done
 1. 文章发布
- *深入理解javascript函数 [查看](http://segmentfault.com/a/1190000003751038)
+ * 深入理解javascript函数 [查看](http://segmentfault.com/a/1190000003751038)
 
 ##2015-09-16
 ###done
 1. 文章发布
- *Javascript自定义事件 [查看](http://segmentfault.com/a/1190000003754821)
+ * Javascript自定义事件 [查看](http://segmentfault.com/a/1190000003754821)
 
 ###plan
 1. 知识点整理
