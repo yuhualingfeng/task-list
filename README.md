@@ -23,14 +23,15 @@
 ###done
 1. 文章发布
  *Javascript自定义事件 [查看](http://segmentfault.com/a/1190000003754821)
+
 ###plan
 1. 知识点整理
-* 面向对象的程序设计之创建对象
-* 面向对象的程序设计之继承
-* Javascript内置引用类型
-* Javascript垃圾收集
-* Javascript的执行环境和作用域
-* 细说BOM对象
-* 使用Canvas绘图
-* 深入理解javascript事件
+  * 面向对象的程序设计之创建对象
+  * 面向对象的程序设计之继承
+  * Javascript内置引用类型
+  * Javascript垃圾收集
+  * Javascript的执行环境和作用域
+  * 细说BOM对象
+  * 使用Canvas绘图
+  * 深入理解javascript事件
 
