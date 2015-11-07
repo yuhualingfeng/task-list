@@ -34,4 +34,11 @@
   * 细说BOM对象
   * 使用Canvas绘图
   * 深入理解javascript事件
+##2015-11-07
+###plan
+
+1. 将常用框架(jquery,zepto,backbone,underscore,angularjs,bootstrap,requirejs,seajs)部署到sae服务器,方便测试和调试.
+2. 学习使用sublime软件 [查看](http://www.imooc.com/view/40).
+3. 移动webapp开发知识点整理.
+
 
