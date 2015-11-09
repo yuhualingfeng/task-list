@@ -29,12 +29,12 @@
 
   * 面向对象的程序设计之创建对象
   * 面向对象的程序设计之继承
-  * Javascript内置引用类型
+  * Javascript内置引用类型  ·待处理·
   * Javascript垃圾收集
   * Javascript的执行环境和作用域
   * 细说BOM对象
   * 使用Canvas绘图
-  * 深入理解javascript事件
+  * 深入理解javascript事件  ·待处理·
 
 ##2015-11-07
 ###plan
