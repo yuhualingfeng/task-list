@@ -43,5 +43,10 @@
 2. 学习使用sublime软件 [查看](http://www.imooc.com/view/40).
 3. 移动webapp开发知识点整理.
 
+##2015-11-11
+###plan
+1. 找石油物资网采购专区页面开发
+2. 将常用框架(jquery,zepto,backbone,underscore,angularjs,bootstrap,requirejs,seajs)部署到sae服务器,方便测试和调试.
+3. 学习使用sublime软件 [查看](http://www.imooc.com/view/40).
 
 
