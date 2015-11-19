@@ -27,19 +27,19 @@
 ###plan
 1. 知识点整理
 
-  * 面向对象的程序设计之创建对象
-  * 面向对象的程序设计之继承
+  * 面向对象的程序设计之创建对象 [已完成]
+  * 面向对象的程序设计之继承 [已完成]
   * Javascript内置引用类型  ·待处理·
-  * Javascript垃圾收集
-  * Javascript的执行环境和作用域
-  * 细说BOM对象
+  * Javascript垃圾收集 [已完成]
+  * Javascript的执行环境和作用域 [已完成]
+  * 细说BOM对象 [已完成]
   * 使用Canvas绘图
-  * 深入理解javascript事件  ·待处理·
+  * 深入理解javascript事件  [查看](http://segmentfault.com/a/1190000004004845)
 
 ##2015-11-07
 ###plan
 
-1. 将常用框架(jquery,zepto,backbone,underscore,angularjs,bootstrap,requirejs,seajs)部署到sae服务器,方便测试和调试.
+1. 将常用框架(jquery,zepto,backbone,underscore,angularjs,bootstrap,requirejs,seajs)部署到sae服务器,方便测试和调试.[查看](http://pujstool.sinaapp.com/)
 2. 学习使用sublime软件 [查看](http://www.imooc.com/view/40).
 3. 移动webapp开发知识点整理.
 
@@ -48,5 +48,11 @@
 1. 找石油物资网采购专区页面开发 [已完成]
 2. 将常用框架(jquery,zepto,backbone,underscore,angularjs,bootstrap,requirejs,seajs)部署到sae服务器,方便测试和调试. [已完成] (http://pujstool.sinaapp.com/).
 3. 学习使用sublime软件 [查看](http://www.imooc.com/view/40).
+
+##2015-11-19
+###plan
+
+1. 找石油物资网登录注册页面改版
+
 
 
