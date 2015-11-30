@@ -58,8 +58,14 @@
 ###plan
 
 1. 找石油物资网登录注册页面改版继续完善
-2. 移动webapp开发书面总结
+2. 移动webapp开发书面总结(video)
 
+##2015-11-30
+###plan
+
+1. 基于nodejs的单元测试,集成测试.`karma``jasmine`
+2. angularjs(video)
+3. react
 
 
 
