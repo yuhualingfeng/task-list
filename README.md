@@ -64,10 +64,10 @@
 ###plan
 
 1. 基于nodejs的单元测试,集成测试.`karma``jasmine`.:dart:
-2. angularjs(video).:dart:
-3. react.:dart:
-4. bootstrap:dart:
-5. underscore,backbone.:dart:
+2. `angularjs`.:dart:
+3. `react`.:dart:
+4. `bootstrap`:dart:
+5. `underscore`,`backbone`.:dart:
 
 
 
