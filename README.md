@@ -69,5 +69,11 @@
 4. `bootstrap`:dart:
 5. `underscore`,`backbone`.:dart:
 
+##2015-12-15
+###plan
+
+1. 找石油物资网站优化,引入模块化(requirejs)管理.
+2. 找石油物资网站优化,通过合并和压缩,减少引入文件的大小和数量.
+
 
 
